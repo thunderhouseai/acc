@@ -1,0 +1,15 @@
+{
+  "id": "ws-form-to-hubspot-sync-mq2b41aq",
+  "clientId": "test-corp-mq2b3i8k",
+  "projectId": "lead-nurture-pipeline-mq2b3syf",
+  "name": "Form to HubSpot Sync",
+  "description": "When someone submits the contact form on our website, add them as a contact in HubSpot and send a welcome email via Gmail within 5 minutes. Use HubSpot contact API and Gmail OAuth.",
+  "type": "new",
+  "riskLevel": "unknown",
+  "status": "planning",
+  "currentStage": "02-requirements",
+  "version": 1,
+  "n8nWorkflowId": null,
+  "createdAt": "2026-06-06T12:05:47.282Z",
+  "updatedAt": "2026-06-06T12:14:52.995Z"
+}
